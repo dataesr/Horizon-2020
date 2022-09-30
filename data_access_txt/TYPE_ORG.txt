@@ -1,0 +1,7 @@
+"CODE_TYPE_ORG";"NOM_TYPE_ORG";"ORG_alias";"ORDRE"
+"HES";"Enseignement supérieur ou secondaire";"Ens. supérieur";1
+"NA";"Non disponible";"nd";6
+"OTH";"Autres";"Autres";5
+"PRC";"Organismes privés (hors enseignement)";"Org. privés";4
+"PUB";"Organismes publics (hors enseignement & recherche)";"Org. publics";3
+"REC";"Recherche";"Recherche";2

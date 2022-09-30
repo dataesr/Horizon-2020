@@ -1,0 +1,297 @@
+"CODE_PAYS_RGP";"CODE_PAYS";"NOM_PAYS";"ARTICLE_PAYS"
+;"CANDIDATE-EFTA";"pays candidats (AELE)";
+;"TIERS-ASIA";"Pays tiers Asie";
+;"TIERS-EFTA";"pays tiers (AELE)";
+;"UNDEF";"Indéfini";
+;"TIERS-INCO-AFRICAN";"Pays tiers Afrique (INCO)";
+;"TIERS-INCO-ASEAN";"Pays tiers Asie du Sud-Est (INCO-ASEAN)";
+;"TIERS-INCO-CELAC";"Pays tiers latino-américains et caribéens (INCO-CELAC)";
+;"TIERS-INCO-EAST";"Pays tiers Europe de l'Est et Asie centrale (INCO-EAST)";
+;"TIERS-INCO-EFTA";"pays tiers libre-échange (INCO-AELE)";
+;"TIERS-INCO-OCT";"Pays tiers Pays et territoires d'Outre-mer";
+;"TIERS-INCO-SOUTH";"Pays tiers (INCO) provisoire1";
+;"TIERS-INCO-SOUTH-AFRICAN";"Pays tiers (INCO) provisoire2";
+;"ASSOCIATE-INCO-EAST";"Pays associés Europe de l'Est et Asie centrale (INCO)";
+;"ASSOCIATE-INCO-EFTA";"Pays associés libre-échange (INCO-AELE)";
+;"ASSOCIATE-INCO-SOUTH-AFRICAN";"Pays associés Afrique du Nord (INCO)";
+"AD";"AD";"Andorre";
+"AE";"AE";"Émirats arabes unis";"les"
+"AF";"AF";"Afghanistan";"l'"
+"AG";"AG";"Antigua-et-Barbuda";"l'"
+"AL";"AL";"Albanie";"l'"
+"AM";"AM";"Arménie";"l'"
+"AO";"AO";"Angola";"l'"
+"AQ";"AQ";"Antarctique";"l'"
+"AR";"AR";"Argentine";"l'"
+"AT";"AT";"Autriche";"l'"
+"AU";"AU";"Australie";"l'"
+"AU";"CC";"Îles Cocos";"l'"
+"AU";"CX";"Île Christmas";"l'"
+"AU";"HM";"Île Heard et îles McDonald";"l'"
+"AU";"NF";"Norfolk";
+"AZ";"AZ";"Azerbaïdjan";"l'"
+"BA";"BA";"Bosnie-Herzégovine";"la"
+"BB";"BB";"Barbade";"la"
+"BD";"BD";"Bangladesh";"le"
+"BE";"BE";"Belgique";"la"
+"BF";"BF";"Burkina Faso";"le"
+"BG";"BG";"Bulgarie";"la"
+"BH";"BH";"Bahreïn";"le"
+"BI";"BI";"Burundi";"le"
+"BJ";"BJ";"Bénin";"le"
+"BN";"BN";"Brunei";
+"BO";"BO";"Bolivie";"la"
+"BR";"BR";"Brésil";"le"
+"BS";"BS";"Bahamas";"les"
+"BT";"BT";"Bhoutan";"le"
+"BW";"BW";"Botswana";"le"
+"BY";"BY";"Biélorussie";"la"
+"BZ";"BZ";"Belize";"le"
+"CA";"CA";"Canada";"le"
+"CD";"CD";"Rép. démocratique du Congo";"la"
+"CF";"CF";"Centrafrique";"le"
+"CG";"CG";"Congo";"le"
+"CH";"CH";"Suisse";"la"
+"CI";"CI";"Côte d'Ivoire";"la"
+"CK";"CK";"Îles Cook";"les"
+"CL";"CL";"Chili";"le"
+"CM";"CM";"Cameroun";"le"
+"CN";"CN";"Chine";"la"
+"CN";"HK";"Hong Kong";
+"CN";"MO";"Macao";
+"CO";"CO";"Colombie";"la"
+"CR";"CR";"Costa Rica";"le"
+"CU";"CU";"Cuba";
+"CV";"CV";"Cap-Vert";"le"
+"CW";"CW";"Curacao";
+"CY";"CY";"Chypre";
+"CZ";"CZ";"Rép. Tchèque";"la"
+"DE";"DE";"Allemagne";"l'"
+"DJ";"DJ";"Djibouti";
+"DK";"DK";"Danemark";"le"
+"DK";"FO";"Îles Féroé";"les"
+"DK";"GL";"Groenland";"le"
+"DM";"DM";"Dominique";"la"
+"DO";"DO";"Rép. Dominicaine";"la"
+"DZ";"DZ";"Algérie";"l'"
+"EC";"EC";"Équateur";"l'"
+"EE";"EE";"Estonie";"l'"
+"EG";"EG";"Égypte";"l'"
+"EH";"EH";"Sahara occidental";"le"
+"EL";"EL";"Grèce";"la"
+"ER";"ER";"Érythrée";"l'"
+"ES";"ES";"Espagne";"l'"
+"ES";"XC";"Ceuta";
+"ES";"XL";"Melilla";
+"ET";"ET";"Éthiopie";"l'"
+"EU";"EU";"Union Européenne (JRC)";"l'"
+"FI";"AX";"Îles d'Aland";"les"
+"FI";"FI";"Finlande";"la"
+"FJ";"FJ";"Fidji";
+"FM";"FM";"Micronésie";"la"
+"FR";"BL";"Saint Barthélemy";
+"FR";"CP";"Clipperton";
+"FR";"FR";"France";"la"
+"FR";"GF";"Guyane";"la"
+"FR";"GP";"Guadeloupe";"la"
+"FR";"MF";"Saint-Martin (partie française)";
+"FR";"MQ";"Martinique";"la"
+"FR";"NC";"Nouvelle-Calédonie";"la"
+"FR";"PF";"Polynésie française";"la"
+"FR";"PM";"Saint-Pierre-et-Miquelon";
+"FR";"RE";"Réunion";"la"
+"FR";"TF";"Terres australes et antarctiques françaises";"les"
+"FR";"WF";"Wallis-et-Futuna";
+"FR";"YT";"Mayotte";
+"GA";"GA";"Gabon";"le"
+"GD";"GD";"Grenade";
+"GE";"GE";"Géorgie";"la"
+"GH";"GH";"Ghana";"le"
+"GM";"GM";"Gambie";"la"
+"GN";"GN";"Guinée";"la"
+"GQ";"GQ";"Guinée équatoriale";"la"
+"GT";"GT";"Guatemala";"le"
+"GW";"GW";"Guinée-Bissau";"la"
+"GY";"GY";"Guyana";"la"
+"HN";"HN";"Honduras";"le"
+"HR";"HR";"Croatie";"la"
+"HT";"HT";"Haïti";
+"HU";"HU";"Hongrie";"la"
+"ID";"ID";"Indonésie";"l'"
+"IE";"IE";"Irlande";"l'"
+"IL";"IL";"Israël";
+"IN";"IN";"Inde";"l'"
+"IQ";"IQ";"Irak";"l'"
+"IR";"IR";"Iran";"l'"
+"IS";"IS";"Islande";"l'"
+"IT";"IT";"Italie";"l'"
+"JM";"JM";"Jamaïque";"la"
+"JO";"JO";"Jordanie";"la"
+"JP";"JP";"Japon";"le"
+"KE";"KE";"Kenya";"le"
+"KG";"KG";"Kirghizistan";"le"
+"KH";"KH";"Cambodge";"le"
+"KI";"KI";"Kiribati";"la"
+"KM";"KM";"Comores";"les"
+"KN";"KN";"Saint-Christophe-et-Niévès";
+"KP";"KP";"Corée du Nord";"la"
+"KR";"KR";"Corée du Sud";"la"
+"KW";"KW";"Koweït";"le"
+"KZ";"KZ";"Kazakhstan";"le"
+"LA";"LA";"Laos";"le"
+"LB";"LB";"Liban";"le"
+"LC";"LC";"Sainte-Lucie";
+"LI";"LI";"Liechtenstein";"le"
+"LK";"LK";"Sri Lanka";"le"
+"LR";"LR";"Libéria";"le"
+"LS";"LS";"Lesotho";"le"
+"LT";"LT";"Lituanie";"la"
+"LU";"LU";"Luxembourg";"le"
+"LV";"LV";"Lettonie";"la"
+"LY";"LY";"Libye";"la"
+"MA";"MA";"Maroc";"le"
+"MC";"MC";"Monaco";
+"MD";"MD";"Rép. Moldave";"la"
+"ME";"ME";"Monténégro";"le"
+"MG";"MG";"Madagascar";
+"MH";"MH";"Marshall";
+"MK";"MK";"Macédoine";"la"
+"ML";"ML";"Mali";"le"
+"MM";"MM";"Birmanie";"la"
+"MN";"MN";"Mongolie";"la"
+"MR";"MR";"Mauritanie";"la"
+"MT";"MT";"Malte";
+"MU";"MU";"Maurice";
+"MV";"MV";"Maldives";"les"
+"MW";"MW";"Malawi";"le"
+"MX";"MX";"Mexique";"le"
+"MY";"MY";"Malaisie";"la"
+"MZ";"MZ";"Mozambique";"le"
+"NA";"NA";"Namibie";"la"
+"NE";"NE";"Niger";"le"
+"NG";"NG";"Nigeria";"le"
+"NI";"NI";"Nicaragua";"le"
+"NL";"AW";"Aruba";"l'"
+"NL";"BQ";"Bonaire, Sint Eustatius and Saba";
+"NL";"NL";"Pays-Bas";"les"
+"NL";"SX";"Saint-Martin (partie néerlandaise)";
+"NO";"BV";"Île Bouvet";"l'"
+"NO";"NO";"Norvège";"la"
+"NO";"SJ";"Svalbard et île Jan Mayen";
+"NP";"NP";"Népal";"le"
+"NR";"NR";"Nauru";
+"NZ";"NU";"Niué";
+"NZ";"NZ";"Nouvelle-Zélande";"la"
+"NZ";"TK";"Tokelau";"le"
+"OM";"OM";"Oman";
+"PA";"PA";"Panamá";"le"
+"PE";"PE";"Pérou";"le"
+"PG";"PG";"Papouasie-Nouv.-Guinée";"la"
+"PH";"PH";"Philippines";"les"
+"PK";"PK";"Pakistan";"le"
+"PL";"PL";"Pologne";"la"
+"PS";"PS";"Palestine";"la"
+"PT";"PT";"Portugal";"le"
+"PW";"PW";"Palaos";"le"
+"PY";"PY";"Paraguay";"le"
+"QA";"QA";"Qatar";"le"
+"RO";"RO";"Roumanie";"la"
+"RS";"RS";"Serbie";"la"
+"RU";"RU";"Russie";"la"
+"RW";"RW";"Rwanda";"le"
+"SA";"SA";"Arabie saoudite";"l'"
+"SB";"SB";"Îles Salomon";"les"
+"SC";"SC";"Seychelles";"les"
+"SD";"SD";"Soudan";"le"
+"SE";"SE";"Suède";"la"
+"SG";"SG";"Singapour";
+"SI";"SI";"Slovénie";"la"
+"SK";"SK";"Slovaquie";"la"
+"SL";"SL";"Sierra Leone";"le"
+"SM";"SM";"Saint-Marin";
+"SN";"SN";"Sénégal";"le"
+"SO";"SO";"Somalie";"la"
+"SR";"SR";"Suriname";"le"
+"SS";"SS";"South Sudan";
+"ST";"ST";"Sao Tomé-et-Principe";
+"SV";"SV";"Salvador";"le"
+"SY";"SY";"Syrie";"la"
+"SZ";"SZ";"Swaziland";"le"
+"TD";"TD";"Tchad";"le"
+"TG";"TG";"Togo";"le"
+"TH";"TH";"Thaïlande";"la"
+"TJ";"TJ";"Tadjikistan";"le"
+"TL";"TL";"Timor oriental";"le"
+"TM";"TM";"Turkménistan";"le"
+"TN";"TN";"Tunisie";"la"
+"TO";"TO";"Tonga";"le"
+"TR";"TR";"Turquie";"la"
+"TT";"TT";"Trinité-et-Tobago";
+"TV";"TV";"Tuvalu";"le"
+"TW";"TW";"Taïwan";
+"TZ";"TZ";"Tanzanie";"la"
+"UA";"UA";"Ukraine";"l'"
+"UG";"UG";"Ouganda";"l'"
+"UK";"AI";"Anguilla";"l'"
+"UK";"BM";"Bermudes";"les"
+"UK";"FK";"Îles Malouines";"les"
+"UK";"GG";"Guernsey";
+"UK";"GI";"Gibraltar";
+"UK";"GS";"Géorgie du Sud et les îles Sandwich du Sud";"la"
+"UK";"IM";"Île de Man";"l'"
+"UK";"IO";"Territoire britannique de l'océan Indien";"le"
+"UK";"JE";"Jersey";
+"UK";"KY";"Îles Caïmans";"les"
+"UK";"MS";"Montserrat";"le"
+"UK";"PN";"Pitcairn";
+"UK";"SH";"Sainte-Hélène";
+"UK";"TC";"Îles Turques-et-Caïques";"les"
+"UK";"UK";"Royaume-Uni";"le"
+"UK";"VG";"Îles Vierges britanniques";"les"
+"US";"AS";"Samoa américaines";"les"
+"US";"GU";"Guam";
+"US";"MP";"Îles Mariannes du Nord";"les"
+"US";"PR";"Porto Rico";
+"US";"PU";"American Pacific Isles";
+"US";"UM";"Îles mineures éloignées des Etats-Unis";"les"
+"US";"US";"Etats-Unis";"les"
+"US";"VI";"Îles Vierges américaines";"les"
+"UY";"UY";"Uruguay";"l'"
+"UZ";"UZ";"Ouzbékistan";"l'"
+"VA";"VA";"Vatican";"le"
+"VC";"VC";"Saint-Vincent-et-les Grenadines";
+"VE";"VE";"Venezuela";"le"
+"VN";"VN";"Viêt Nam";"le"
+"VU";"VU";"Vanuatu";"le"
+"WS";"WS";"Samoa";"les"
+"XK";"XK";"Kosovo";"le"
+"YE";"YE";"Yémen";"le"
+"ZA";"ZA";"Afrique du Sud";"l'"
+"ZM";"ZM";"Zambie";"la"
+"ZW";"ZW";"Zimbabwe";"le"
+"ZZ";"ZZ";"Indéfini";
+;"CANDIDATE-INCO-NORTH";"Pays candidats Europe du Nord";
+;"ASSOCIATE-INCO-EECA";"Pays associés Europe de l'Est et Asie centrale (INCO)";
+;"TIERS";"Pays tiers";
+;"MEMBER-OLD";"Pays membres (UE15)";
+;"MEMBER-NEW";"Pays membres (UE13)";
+;"ASSOCIATE-EFTA";"pays associés (AELE)";
+;"ASSOCIATE-INCO-MEDITERRANEAN";"Pays associés Méditerranée (INCO)";
+;"ASSOCIATE-INCO-WESTERNBALKAN";"Pays associés Ouest-Balkans";
+;"CANDIDATE-INCO-MEDITERRANEAN";"Pays candidats Méditerranée";
+;"CANDIDATE-INCO-WESTERNBALKAN";"Pays candidats Ouest-Balkans";
+;"TIERS-AUTRE";"Autres pays tiers";
+;"TIERS-INCO-ACP-AFRICAN";"Pays tiers Afrique (ACP-INCO)";
+;"TIERS-INCO-ACP-CARIBBEAN";"Pays tiers caribéens (ACP-INCO)";
+;"TIERS-INCO-ACP-PACIFIC";"Pays tiers Pacifique (ACP-INCO)";
+;"TIERS-INCO-ASIA";"Pays tiers Asie (INCO)";
+;"TIERS-INCO-EECA";"Pays tiers Europe de l'Est et Asie centrale (INCO)";
+;"TIERS-INCO-LATINAMERICA";"Pays tiers Amérique Latine (INCO)";
+;"TIERS-INCO-MEDITERRANEAN";"Pays tiers Méditerranée (INCO)";
+;"TIERS-INCO-WESTERNBALKAN";"Pays tiers Ouest-Balkans (INCO)";
+;"TIERS-PTOM";"Pays tiers Pays et territoires d'Outre-mer";
+;"ALL";"Tous les pays";
+;"MEMBER";"Pays membres";
+;"ASSO_CAND";"Pays associés ou candidats";
+;"ASSOCIATE";"Pays associés";
+;"CANDIDATE";"Pays candidats";
